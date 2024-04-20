@@ -13,7 +13,11 @@
     "firebase": "^10.11.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-firebase-hooks": "^5.1.1"
+=======
+    "react-router-dom": "^6.22.3"
+>>>>>>> ab2c7d3ecb9ab12c29690e09259e327b8b24431a
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
